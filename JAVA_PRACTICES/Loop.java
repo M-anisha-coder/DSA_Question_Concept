@@ -31,7 +31,7 @@ class  Loop {
             j++;
         }while(j<=n);
 
-     
+        sc.close(); // used to close scanner object
    
     }
 }

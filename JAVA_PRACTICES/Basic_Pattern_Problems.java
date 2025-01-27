@@ -17,6 +17,8 @@ class Basic_Pattern_Problems {
             }
             System.out.println();
         }
-        
+        sc.close(); 
     }
+
+   
 }

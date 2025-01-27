@@ -9,7 +9,7 @@
            boolean islovely =true;
            final float pi= 3.14f; // final word is used to assign constant type datatype.
            
-           System.out.println("NAME :"+name +" Initial :"+m+" Age :"+age+" Salary :"+Salary+" Tax Rate :"+f+ "is lovely :"+islovely);
+           System.out.println("NAME :"+name +" Initial :"+m+" Age :"+age+" Salary :"+Salary+" Tax Rate :"+f+ "is lovely :"+islovely+ " "+ pi);
    
     }
 }

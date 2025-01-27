@@ -374,6 +374,6 @@ class Advance_Patterns_Problems {
 
 
 
-
+    sc.close(); // used to close scanner object
 }
 }

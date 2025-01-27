@@ -29,6 +29,6 @@ class Array {
 
          System.out.println("Number found at index "+ index);
 
-
+       sc.close();
     }
 }

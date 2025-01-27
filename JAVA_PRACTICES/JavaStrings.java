@@ -53,7 +53,7 @@ class JavaStrings {
        
 
 
-
+       sc.close(); // used to close scanner object
 
     }
 }

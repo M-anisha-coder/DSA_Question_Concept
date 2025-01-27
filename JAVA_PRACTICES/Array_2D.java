@@ -37,6 +37,8 @@ class Array_2D{
             }
         }
 
+        sc.close(); // used to close scanner object
+
     }
     
 }

@@ -23,5 +23,6 @@ class ConditionalStatement {
                System.out.println("default case");
                 break;
         }
+        sc.close(); // used to close scanner object
     }
 }
